@@ -1,11 +1,11 @@
 {
   "identity": {
-    "latest": "1.7.1",
+    "latest": "1.7.2",
     "minimum": "1.7.0",
     "releasedAt": "2026-09-21",
-    "message": "Barber preview visibility and version checking."
+    "message": "Character selection seat stability and restart cleanup."
   },
   "channels": {
-    "stable": "1.7.1"
+    "stable": "1.7.2"
   }
 }
