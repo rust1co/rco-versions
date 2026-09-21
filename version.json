@@ -1,15 +1,11 @@
 {
   "identity": {
-    "latest": "1.7.0",
+    "latest": "1.7.1",
     "minimum": "1.7.0",
     "releasedAt": "2026-09-21",
-    "message": "Latest public release."
-  },
-  "resources": {
-    "rco-appearance": "1.7.0",
-    "rco-creator": "1.7.0"
+    "message": "Barber preview visibility and version checking."
   },
   "channels": {
-    "stable": "1.7.0"
+    "stable": "1.7.1"
   }
 }
