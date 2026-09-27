@@ -1,11 +1,11 @@
 {
   "identity": {
-    "latest": "1.7.5",
+    "latest": "1.7.6",
     "minimum": "1.7.0",
-    "releasedAt": "2026-09-26",
-    "message": "Character selection seat stability and restart cleanup."
+    "releasedAt": "2026-09-27",
+    "message": "RCO Identity 1.7.6 release."
   },
   "channels": {
-    "stable": "1.7.5"
+    "stable": "1.7.6"
   }
 }
