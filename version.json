@@ -1,11 +1,11 @@
 {
   "identity": {
-    "latest": "1.7.2",
+    "latest": "1.7.5",
     "minimum": "1.7.0",
-    "releasedAt": "2026-09-21",
+    "releasedAt": "2026-09-26",
     "message": "Character selection seat stability and restart cleanup."
   },
   "channels": {
-    "stable": "1.7.2"
+    "stable": "1.7.5"
   }
 }
