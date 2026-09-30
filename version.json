@@ -1,11 +1,11 @@
 {
   "identity": {
-    "latest": "2.0.0",
+    "latest": "2.0.3",
     "minimum": "1.7.0",
-    "releasedAt": "2026-09-29",
-    "message": "RCO Identity 2.0.0: Appearance Color Wheel, addon clothing and hair, wardrobe persistence and stability improvements."
+    "releasedAt": "2026-09-30",
+    "message": "RCO Identity 2.0.3: Appearance Color Wheel, addon clothing and hair, wardrobe persistence and stability improvements."
   },
   "channels": {
-    "stable": "2.0.0"
+    "stable": "2.0.3"
   }
 }
