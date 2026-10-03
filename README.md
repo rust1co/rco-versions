@@ -6,7 +6,7 @@ RCO Identity is released as a single package: `rco-appearance` and `rco-creator`
 
 ## Current release
 
-- RCO Identity: `2.0.3`
+- RCO Identity: `2.0.4`
 - Minimum supported version: `1.7.0`
 
 ## Publishing a new version
