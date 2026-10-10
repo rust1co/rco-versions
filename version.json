@@ -9,7 +9,7 @@
     "stable": "2.0.5"
   },
   "vehicles": {
-    "latest": "0.1.72",
+    "latest": "0.1.73",
     "minimum": "0.1.0",
     "releasedAt": "2026-10-10",
     "message": "RCO Vehicles 0.1.67: new interface (dealer, garage, fuel ticket, notifications, speedometer), sell vehicles to other players for a price, thinner fuel hose, speedometer in mph by default."
