@@ -9,9 +9,9 @@
     "stable": "2.0.6"
   },
   "vehicles": {
-    "latest": "0.1.84",
+    "latest": "0.1.85",
     "minimum": "0.1.0",
     "releasedAt": "2026-10-11",
-    "message": "RCO Vehicles 0.1.84: the prompt shown near dealers, garages and fuel pumps is back to its clearer title font."
+    "message": "RCO Vehicles 0.1.85: the Saint Denis showroom is shown at night while a player browses the catalogue, only on that player's screen (new dealer option 'hour')."
   }
 }
