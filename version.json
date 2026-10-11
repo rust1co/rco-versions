@@ -3,7 +3,7 @@
     "latest": "2.0.6",
     "minimum": "1.7.0",
     "releasedAt": "2026-10-11",
-    "message": "RCO Identity 2.0.6: the saved appearance comes back after a revive (no more missing head), /coat works over MP shirts, and NPC item counters show the real slot total."
+    "message": "RCO Identity 2.0.6: the saved appearance comes back after a revive (no more missing head), /coat works over MP shirts, and male pieces with no model were removed (Left Ring 5, Wrist Binding 6, MP Accessories 6, 14, 39, 42, 50, 61)."
   },
   "channels": {
     "stable": "2.0.6"
