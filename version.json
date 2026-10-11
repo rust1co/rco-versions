@@ -1,12 +1,12 @@
 {
   "identity": {
-    "latest": "2.0.5",
+    "latest": "2.0.6",
     "minimum": "1.7.0",
-    "releasedAt": "2026-10-05",
-    "message": "RCO Identity 2.0.5: Appearance Color Wheel, addon clothing and hair, wardrobe persistence and stability improvements."
+    "releasedAt": "2026-10-11",
+    "message": "RCO Identity 2.0.6: the saved appearance comes back after a revive (no more missing head), /coat works over MP shirts, and NPC item counters show the real slot total."
   },
   "channels": {
-    "stable": "2.0.5"
+    "stable": "2.0.6"
   },
   "vehicles": {
     "latest": "0.1.84",
