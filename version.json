@@ -9,9 +9,9 @@
     "stable": "2.0.6"
   },
   "vehicles": {
-    "latest": "0.1.101",
+    "latest": "0.1.102",
     "minimum": "0.1.0",
     "releasedAt": "2026-10-12",
-    "message": "RCO Vehicles 0.1.100: pick the vehicle type (car, bicycle, motorcycle) at the top of the dealer list; aircraft get their own gauge (throttle and altimeter) and map icon, and are never kept in the ordinary garages nor sold at the dealers: the airfield comes with the aircraft resource (rco-pioneer) and shows only while it runs, where a player with no aircraft buys one and an owner keeps it; unflipping a car picks up where it stopped if the player is knocked over."
+    "message": "RCO Vehicles 0.1.102: lock your car with L (cars only): nobody gets in while it is locked, the owner sees Lock/Unlock beside the seat prompts and a padlock on the speedometer, everyone near hears it; a player back after a crash gets his vehicles that are still out (map icons, lock) again. Also in 0.1.100-0.1.101: vehicle type tabs at the dealer, aircraft gauge and airfield shown only while the aircraft resource runs, unflipping resumes after a fall."
   }
 }
