@@ -9,9 +9,9 @@
     "stable": "2.0.6"
   },
   "vehicles": {
-    "latest": "0.1.85",
+    "latest": "0.1.90",
     "minimum": "0.1.0",
-    "releasedAt": "2026-10-11",
-    "message": "RCO Vehicles 0.1.85: the Saint Denis showroom is shown at night while a player browses the catalogue, only on that player's screen (new dealer option 'hour')."
+    "releasedAt": "2026-10-12",
+    "message": "RCO Vehicles 0.1.90: overturned cars can be unflipped - stand beside one and press G (one player at a time, everyone nearby sees it stand back on its wheels); long dealer and garage lists get a scroll bar in the RCO style."
   }
 }
