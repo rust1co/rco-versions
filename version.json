@@ -9,9 +9,9 @@
     "stable": "2.0.6"
   },
   "vehicles": {
-    "latest": "0.1.91",
+    "latest": "0.1.96",
     "minimum": "0.1.0",
     "releasedAt": "2026-10-12",
-    "message": "RCO Vehicles 0.1.91: overturned cars can be unflipped - stand beside one and press G (one player at a time, everyone nearby sees it stand back on its wheels); fuel now lasts twice as long; long dealer and garage lists get a scroll bar in the RCO style."
+    "message": "RCO Vehicles 0.1.96: aircraft get their own gauge (throttle and altimeter) and are kept only in hangars (a garage with aircraft = true, with its own map icon), never in the ordinary garages nor sold at the dealers; unflipping a car picks up where it stopped if the player is knocked over."
   }
 }
