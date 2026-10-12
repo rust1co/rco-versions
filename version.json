@@ -9,9 +9,9 @@
     "stable": "2.0.6"
   },
   "vehicles": {
-    "latest": "0.1.103",
+    "latest": "0.1.104",
     "minimum": "0.1.0",
     "releasedAt": "2026-10-12",
-    "message": "RCO Vehicles 0.1.103: chamois cloth item (RSG and VORP): wipe a vehicle and it stays clean for an hour; on VORP the repair kit and the cloth are added to the items table by the resource itself. 0.1.102: lock your car with L (cars only): nobody gets in while it is locked (others see Locked), the owner sees Lock/Unlock beside the seat prompts and a padlock on the speedometer, everyone near hears it; a player back after a crash gets his vehicles that are still out again."
+    "message": "RCO Vehicles 0.1.104: the garage shows each vehicle's health on a bar, like the dealer's stats. 0.1.103: chamois cloth item (RSG and VORP): wipe a vehicle and it stays clean for an hour; on VORP the repair kit and the cloth are added to the items table by the resource itself. 0.1.102: lock your car with L (cars only), a padlock on the speedometer, vehicles back to their owner after a crash."
   }
 }
