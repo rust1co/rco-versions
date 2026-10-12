@@ -9,7 +9,7 @@
     "stable": "2.0.6"
   },
   "vehicles": {
-    "latest": "0.1.100",
+    "latest": "0.1.101",
     "minimum": "0.1.0",
     "releasedAt": "2026-10-12",
     "message": "RCO Vehicles 0.1.100: pick the vehicle type (car, bicycle, motorcycle) at the top of the dealer list; aircraft get their own gauge (throttle and altimeter) and map icon, and are never kept in the ordinary garages nor sold at the dealers: the airfield comes with the aircraft resource (rco-pioneer) and shows only while it runs, where a player with no aircraft buys one and an owner keeps it; unflipping a car picks up where it stopped if the player is knocked over."
