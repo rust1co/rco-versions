@@ -9,10 +9,10 @@
     "stable": "2.0.6"
   },
   "vehicles": {
-    "latest": "0.1.109",
+    "latest": "0.1.113",
     "minimum": "0.1.0",
     "releasedAt": "2026-10-14",
-    "message": "RCO Vehicles 0.1.109: the key that locks your car is now set in the config (Config.LockKey, the same key on foot and in the car; update your RCO cars too so their prompt follows it); /carreturn tows your vehicles back to their garages and /givekey <id> [hours] lends your car's key (both can be turned off); on VORP the repair kit and the cloth are always taken from the inventory, also on edited inventories."
+    "message": "RCO Vehicles 0.1.113: cars with a trunk (Ironhorse, Mule, Prairie) open it on foot behind them: the player lifts the lid, the trunk's inventory opens (RSG and VORP, old and new) and its size is set in Config.Trunks; a locked car keeps it shut. Also: the lock key in the config (Config.LockKey), /carreturn and /givekey, and the repair kit and cloth always taken on edited VORP inventories. Update your RCO cars too."
   },
   "gym": {
     "latest": "0.0.87",
