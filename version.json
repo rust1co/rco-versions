@@ -15,9 +15,9 @@
     "message": "RCO Vehicles 0.1.108: /carreturn tows your vehicles back to their garages and /givekey <id> [hours] lends your car's key to another player (both can be turned off in the config); the repair kit and the cloth are always taken from the inventory on VORP, also on edited inventories."
   },
   "gym": {
-    "latest": "0.0.81",
+    "latest": "0.0.82",
     "minimum": "0.0.81",
     "releasedAt": "2026-10-14",
-    "message": "RCO Gym 0.0.81: first release. A working 1890 gymnasium in Strawberry: 21 exercises on our own equipment, each with its own minigame; strength per muscle group with the muscle on the body (RCO Appearance, RSG Appearance or VORP Character); fatigue, warm-up and strains; wind for stamina and a harder punch; records, the week's champion and a spotter who can save your rep."
+    "message": "RCO Gym 0.0.82: the gym on the map (Config.Blip: icon, place, on or off). 0.0.81: first release. A working 1890 gymnasium in Strawberry: 21 exercises on our own equipment, each with its own minigame; strength per muscle group with the muscle on the body (RCO Appearance, RSG Appearance or VORP Character); fatigue, warm-up and strains; wind for stamina and a harder punch; records, the week's champion and a spotter who can save your rep."
   }
 }
