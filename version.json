@@ -9,10 +9,10 @@
     "stable": "2.0.6"
   },
   "vehicles": {
-    "latest": "0.1.108",
+    "latest": "0.1.109",
     "minimum": "0.1.0",
     "releasedAt": "2026-10-14",
-    "message": "RCO Vehicles 0.1.108: /carreturn tows your vehicles back to their garages and /givekey <id> [hours] lends your car's key to another player (both can be turned off in the config); the repair kit and the cloth are always taken from the inventory on VORP, also on edited inventories."
+    "message": "RCO Vehicles 0.1.109: the key that locks your car is now set in the config (Config.LockKey, the same key on foot and in the car; update your RCO cars too so their prompt follows it); /carreturn tows your vehicles back to their garages and /givekey <id> [hours] lends your car's key (both can be turned off); on VORP the repair kit and the cloth are always taken from the inventory, also on edited inventories."
   },
   "gym": {
     "latest": "0.0.84",
