@@ -9,9 +9,9 @@
     "stable": "2.0.6"
   },
   "vehicles": {
-    "latest": "0.1.105",
+    "latest": "0.1.107",
     "minimum": "0.1.0",
-    "releasedAt": "2026-10-12",
-    "message": "RCO Vehicles 0.1.105: a vehicle can say where the player stands to refuel, repair and clean it (the Pioneer: by the fuselage, not at the wing tip). 0.1.104: the garage shows each vehicle's health on a bar. 0.1.103: chamois cloth item (RSG and VORP): wipe a vehicle and it stays clean for an hour; on VORP the repair kit and the cloth are added to the items table by the resource itself. 0.1.102: lock your car with L (cars only), a padlock on the speedometer, vehicles back to their owner after a crash."
+    "releasedAt": "2026-10-13",
+    "message": "RCO Vehicles 0.1.107: taking a vehicle out of a garage puts you beside it where you repair it (the Pioneer: next to the basket, no longer under the wing). 0.1.105: a vehicle can say where the player stands to refuel, repair and clean it (the Pioneer: by the fuselage, not at the wing tip). 0.1.104: the garage shows each vehicle's health on a bar. 0.1.103: chamois cloth item (RSG and VORP): wipe a vehicle and it stays clean for an hour; on VORP the repair kit and the cloth are added to the items table by the resource itself. 0.1.102: lock your car with L (cars only), a padlock on the speedometer, vehicles back to their owner after a crash."
   }
 }
