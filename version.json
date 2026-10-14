@@ -15,9 +15,9 @@
     "message": "RCO Vehicles 0.1.109: the key that locks your car is now set in the config (Config.LockKey, the same key on foot and in the car; update your RCO cars too so their prompt follows it); /carreturn tows your vehicles back to their garages and /givekey <id> [hours] lends your car's key (both can be turned off); on VORP the repair kit and the cloth are always taken from the inventory, also on edited inventories."
   },
   "gym": {
-    "latest": "0.0.84",
+    "latest": "0.0.85",
     "minimum": "0.0.81",
     "releasedAt": "2026-10-14",
-    "message": "RCO Gym 0.0.84: the camera stays still while the record board or the load picker is open. 0.0.83: the exercises' animations play again (0.0.81 and 0.0.82 left the player standing and stuck). 0.0.82: the gym on the map (Config.Blip). 0.0.81: first release. A working 1890 gymnasium in Strawberry: 21 exercises on our own equipment, each with its own minigame; strength per muscle group with the muscle on the body (RCO Appearance, RSG Appearance or VORP Character); fatigue, warm-up and strains; wind for stamina and a harder punch; records, the week's champion and a spotter who can save your rep."
+    "message": "RCO Gym 0.0.85: the record board and the load picker take the UI focus (keys A/D, arrows, Space, X or Esc): the character and the camera stay still while they are open. 0.0.83: the exercises' animations play again (0.0.81 and 0.0.82 left the player standing and stuck). 0.0.82: the gym on the map (Config.Blip). 0.0.81: first release. A working 1890 gymnasium in Strawberry: 21 exercises on our own equipment, each with its own minigame; strength per muscle group with the muscle on the body (RCO Appearance, RSG Appearance or VORP Character); fatigue, warm-up and strains; wind for stamina and a harder punch; records, the week's champion and a spotter who can save your rep."
   }
 }
