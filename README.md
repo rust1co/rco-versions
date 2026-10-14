@@ -27,3 +27,9 @@ The checker is informational only. If this endpoint is unavailable, RCO Identity
 Entry `vehicles` in `version.json`, read by `rco-vehicles` (`server/version_check.lua`) at server start. On each
 release of `rco-vehicles`, change `vehicles.latest` to the `version` of its `fxmanifest.lua`, update `releasedAt` and,
 optionally, `message` (shown in the console when an update is available). Below `vehicles.minimum` the notice is red.
+
+## RCO Gym
+
+Entry `gym` in `version.json`, read by `rco-gym` (`server/version_check.lua`) at server start. On each release of
+`rco-gym`, change `gym.latest` to the `version` of its `fxmanifest.lua`, update `releasedAt` and, optionally,
+`message` (shown in the console when an update is available). Below `gym.minimum` the notice is red.
