@@ -1,12 +1,12 @@
 {
   "identity": {
-    "latest": "2.0.8",
+    "latest": "2.0.9",
     "minimum": "1.7.0",
     "releasedAt": "2026-10-15",
-    "message": "RCO Identity 2.0.8: Color works again on MP clothes bought in an earlier visit, from a worn outfit or a loaded appearance (no more 'The equipped clothing has changed'). 2.0.7: an MP piece with a Color keeps that Color when another piece goes on or off over it (a vest under a coat with /coat or in the clothing store), and the store saves such an outfit again."
+    "message": "RCO Identity 2.0.9: a Color on one MP piece no longer resets the Color of the piece under it (a vest under a coat), in the store preview and after /coat. 2.0.8: Color works on MP clothes bought in an earlier visit, from a worn outfit or a loaded appearance. 2.0.7: an MP piece keeps its Color when another piece goes on or off over it."
   },
   "channels": {
-    "stable": "2.0.8"
+    "stable": "2.0.9"
   },
   "vehicles": {
     "latest": "0.1.113",
