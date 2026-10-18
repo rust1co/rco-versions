@@ -1,12 +1,12 @@
 {
   "identity": {
-    "latest": "2.0.14",
+    "latest": "2.0.15",
     "minimum": "1.7.0",
     "releasedAt": "2026-10-17",
     "message": "RCO Identity 2.0.12: the clothing store saves again after an MP piece with a Color is picked back as its plain Variation. 2.0.11: an MP piece under another one can get or change its Color without taking the outer piece off (a vest under a coat). 2.0.10: the store's Color wheel is fast again when a colored piece left the character."
   },
   "channels": {
-    "stable": "2.0.14"
+    "stable": "2.0.15"
   },
   "vehicles": {
     "latest": "0.1.113",
