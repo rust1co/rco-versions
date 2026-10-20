@@ -9,10 +9,10 @@
     "stable": "2.0.17"
   },
   "vehicles": {
-    "latest": "0.1.113",
+    "latest": "0.1.116",
     "minimum": "0.1.0",
-    "releasedAt": "2026-10-14",
-    "message": "RCO Vehicles 0.1.113: cars with a trunk (Ironhorse, Mule, Prairie) open it on foot behind them: the player lifts the lid, the trunk's inventory opens (RSG and VORP, old and new) and its size is set in Config.Trunks; a locked car keeps it shut. Also: the lock key in the config (Config.LockKey), /carreturn and /givekey, and the repair kit and cloth always taken on edited VORP inventories. Update your RCO cars too."
+    "releasedAt": "2026-10-20",
+    "message": "RCO Vehicles 0.1.116: vehicles only some jobs can buy (Config.JobVehicles; the Enforcer is for the jobs in Config.PoliceJobs, RSG and VORP); the dealer and the garage show which cars have a trunk; names with g, p or y are no longer cut at the bottom. New cars: Ashcroft, Redgrave and Enforcer. 0.1.113: car trunks with their own inventory, the lock key in the config, /carreturn and /givekey."
   },
   "gym": {
     "latest": "0.0.91",
