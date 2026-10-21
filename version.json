@@ -9,10 +9,10 @@
     "stable": "2.0.17"
   },
   "vehicles": {
-    "latest": "0.1.116",
+    "latest": "0.1.121",
     "minimum": "0.1.0",
     "releasedAt": "2026-10-20",
-    "message": "RCO Vehicles 0.1.116: vehicles only some jobs can buy (Config.JobVehicles; the Enforcer is for the jobs in Config.PoliceJobs, RSG and VORP); the dealer and the garage show which cars have a trunk; names with g, p or y are no longer cut at the bottom. New cars: Ashcroft, Redgrave and Enforcer. 0.1.113: car trunks with their own inventory, the lock key in the config, /carreturn and /givekey."
+    "message": "RCO Vehicles 0.1.121: jerry cans (Config.JerryCan). Fill one at any pump, from the pump's hint (E) or from the inventory, and pour it into a vehicle that ran dry; one item that keeps its litres in its metadata (default), or two items, empty and full, on RSG and VORP. Also: fuel pumps sit on the ground where a station's coords were taken high. 0.1.116: vehicles only some jobs can buy (Config.JobVehicles), trunks shown in the dealer. Add the jerry can item and its pictures: see the docs."
   },
   "gym": {
     "latest": "0.0.92",
