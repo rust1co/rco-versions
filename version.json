@@ -1,12 +1,12 @@
 {
   "identity": {
-    "latest": "2.0.17",
+    "latest": "2.0.19",
     "minimum": "1.7.0",
-    "releasedAt": "2026-10-18",
-    "message": "RCO Identity 2.0.17: a second selection scene (Config.Selection.scene = 2, a forest clearing with a pose per character, animals kept away), a much smaller download (rco-creator about 7 MB) and makeup colors in the menu taken from the game's palette. Also: new_character_only_direct spawn mode, better seated poses in the mansion, and fixes for the loading spinner, invisible players and missing hair in the selection."
+    "releasedAt": "2026-10-21",
+    "message": "RCO Identity 2.0.19: optional custom peds (Config.CustomPeds, off by default): admins give a character any ped model with /setped, and the clothing store and barber open the same editor with only that ped's own pieces. Also: on VORP, two characters could share one selection slot (one hidden, the other selected); every character now gets its own slot."
   },
   "channels": {
-    "stable": "2.0.17"
+    "stable": "2.0.19"
   },
   "vehicles": {
     "latest": "0.1.121",
