@@ -22,6 +22,13 @@ Only `rco-creator` performs the remote version request. It also compares the loc
 
 The checker is informational only. If this endpoint is unavailable, RCO Identity continues starting normally.
 
+## Rules for every entry
+
+- `latest` is the version customers can download now. Change it only when that package is on CFX, never on a
+  development commit.
+- `message` is the note of that one version, one or two sentences. Replace it on each release; never add the new note
+  in front of the old ones. The checker prints the whole field in the server console.
+
 ## RCO Vehicles
 
 Entry `vehicles` in `version.json`, read by `rco-vehicles` (`server/version_check.lua`) at server start. On each
