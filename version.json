@@ -9,10 +9,10 @@
     "stable": "2.0.19"
   },
   "vehicles": {
-    "latest": "0.1.125",
+    "latest": "0.1.126",
     "minimum": "0.1.0",
     "releasedAt": "2026-10-23",
-    "message": "RCO Vehicles 0.1.125: the garage shows each vehicle with its accessories. 0.1.124: groundwork for vehicle accessories (the mechanic). A vehicle's catalogue can list accessory slots (\"mods\"), each option a propset its own resource streams; what a vehicle has is saved with it (new column rco_vehicles.mods, added on start) and every player sees it on the vehicle. Server exports SetVehicleMod and GetVehicleMods; admins can try it with /rcomod <slot> <option|none> while sitting in the vehicle. 0.1.123: the fuel arm clips end with the hose. 0.1.121: jerry cans (Config.JerryCan). Fill one at any pump, from the pump's hint (E) or from the inventory, and pour it into a vehicle that ran dry; one item that keeps its litres in its metadata (default), or two items, empty and full, on RSG and VORP. Also: fuel pumps sit on the ground where a station's coords were taken high. 0.1.116: vehicles only some jobs can buy (Config.JobVehicles), trunks shown in the dealer. Add the jerry can item and its pictures: see the docs."
+    "message": "RCO Vehicles 0.1.126: server exports for workshop resources: GetVehicleModCatalog, GetVehicleHealth, RepairVehicle, GetVehicleOwner and HasVehicleKey. RCO Vehicles 0.1.125: the garage shows each vehicle with its accessories. 0.1.124: groundwork for vehicle accessories (the mechanic). A vehicle's catalogue can list accessory slots (\"mods\"), each option a propset its own resource streams; what a vehicle has is saved with it (new column rco_vehicles.mods, added on start) and every player sees it on the vehicle. Server exports SetVehicleMod and GetVehicleMods; admins can try it with /rcomod <slot> <option|none> while sitting in the vehicle. 0.1.123: the fuel arm clips end with the hose. 0.1.121: jerry cans (Config.JerryCan). Fill one at any pump, from the pump's hint (E) or from the inventory, and pour it into a vehicle that ran dry; one item that keeps its litres in its metadata (default), or two items, empty and full, on RSG and VORP. Also: fuel pumps sit on the ground where a station's coords were taken high. 0.1.116: vehicles only some jobs can buy (Config.JobVehicles), trunks shown in the dealer. Add the jerry can item and its pictures: see the docs."
   },
   "gym": {
     "latest": "0.0.92",
