@@ -12,7 +12,7 @@
     "latest": "0.1.123",
     "minimum": "0.1.0",
     "releasedAt": "2026-10-22",
-    "message": "RCO Vehicles 0.1.123: jerry cans (Config.JerryCan): fill one at any fuel pump and pour it into a vehicle that ran dry, on RSG and VORP. Add the jerry can item and its pictures: see the docs."
+    "message": "RCO Vehicles 0.1.123: the fuel arm clips end with the hose."
   },
   "gym": {
     "latest": "0.0.92",
