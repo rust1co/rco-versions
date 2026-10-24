@@ -1,12 +1,12 @@
 {
   "identity": {
-    "latest": "2.0.19",
+    "latest": "2.0.20",
     "minimum": "1.7.0",
-    "releasedAt": "2026-10-21",
-    "message": "RCO Identity 2.0.19: optional custom peds (Config.CustomPeds, off by default): admins give a character any ped model with /setped, and the clothing store and barber open the same editor with only that ped's own pieces. Also: on VORP, two characters could share one selection slot (one hidden, the other selected); every character now gets its own slot."
+    "releasedAt": "2026-10-24",
+    "message": "RCO Identity 2.0.20: 128 new hairstyles taken from the game's NPCs in the barber (75 male, 53 female), using the regular hair colors, and 8 new clothing colors in the Color Wheel (22 in total)."
   },
   "channels": {
-    "stable": "2.0.19"
+    "stable": "2.0.20"
   },
   "vehicles": {
     "latest": "0.1.123",
