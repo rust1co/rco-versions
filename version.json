@@ -1,12 +1,12 @@
 {
   "identity": {
-    "latest": "2.0.20",
+    "latest": "2.0.21",
     "minimum": "1.7.0",
-    "releasedAt": "2026-10-24",
-    "message": "RCO Identity 2.0.20: 128 new hairstyles taken from the game's NPCs in the barber (75 male, 53 female), using the regular hair colors, and 8 new clothing colors in the Color Wheel (22 in total)."
+    "releasedAt": "2026-10-26",
+    "message": "RCO Identity 2.0.21: fix for saveAppearance failed: mp_color_live_mismatch."
   },
   "channels": {
-    "stable": "2.0.20"
+    "stable": "2.0.21"
   },
   "vehicles": {
     "latest": "0.1.137",
