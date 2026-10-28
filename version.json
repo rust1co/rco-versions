@@ -1,12 +1,12 @@
 {
   "identity": {
-    "latest": "2.0.21",
+    "latest": "2.0.22",
     "minimum": "1.7.0",
-    "releasedAt": "2026-10-26",
-    "message": "RCO Identity 2.0.21: fix for saveAppearance failed: mp_color_live_mismatch."
+    "releasedAt": "2026-10-27",
+    "message": "RCO Identity 2.0.22: support for the new rsg-character (rsg-bathing / rsg-prison)."
   },
   "channels": {
-    "stable": "2.0.21"
+    "stable": "2.0.22"
   },
   "vehicles": {
     "latest": "0.1.137",
