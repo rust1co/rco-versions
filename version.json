@@ -1,12 +1,12 @@
 {
   "identity": {
-    "latest": "2.0.22",
+    "latest": "2.0.23",
     "minimum": "1.7.0",
-    "releasedAt": "2026-10-27",
-    "message": "RCO Identity 2.0.22: support for the new rsg-character (rsg-bathing / rsg-prison)."
+    "releasedAt": "2026-10-30",
+    "message": "RCO Identity 2.0.23: Color 1/2/3 on clothes and makeup saved with one Choose, female corsets moved from Vests to Corsets, and fixes for green NPC clothes and the color save error."
   },
   "channels": {
-    "stable": "2.0.22"
+    "stable": "2.0.23"
   },
   "vehicles": {
     "latest": "0.1.138",
