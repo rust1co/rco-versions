@@ -19,5 +19,11 @@
     "minimum": "0.0.81",
     "releasedAt": "2026-10-19",
     "message": "RCO Gym 0.0.92: more than one gym. Config.Gyms lists them (Strawberry comes ready, with its blip and record board); add one anywhere station by station, its type and the spot the player stands on, and the script lays its equipment out. Config.Blip moved into each gym's entry."
+  },
+  "steamline": {
+    "latest": "0.1.3",
+    "minimum": "0.1.0",
+    "releasedAt": "2026-11-02",
+    "message": "RCO Steamline 0.1.3: the server console now tells you at start when a newer version of RCO Steamline is out."
   }
 }
