@@ -21,9 +21,9 @@
     "message": "RCO Gym 0.0.92: more than one gym. Config.Gyms lists them (Strawberry comes ready, with its blip and record board); add one anywhere station by station, its type and the spot the player stands on, and the script lays its equipment out. Config.Blip moved into each gym's entry."
   },
   "steamline": {
-    "latest": "0.1.4",
+    "latest": "0.1.5",
     "minimum": "0.1.0",
     "releasedAt": "2026-11-02",
-    "message": "RCO Steamline 0.1.4: after a station stop with passengers getting on or off, the train no longer sets off by itself; the throttle and cruise close when the stop begins."
+    "message": "RCO Steamline 0.1.5: the NPC train now turns around at the end of its line even with players watching or seated, and seated riders keep their ride and seat. NPC passengers get 30 s to walk on board."
   }
 }
