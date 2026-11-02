@@ -1,12 +1,12 @@
 {
   "identity": {
-    "latest": "2.0.23",
+    "latest": "2.0.26",
     "minimum": "1.7.0",
-    "releasedAt": "2026-10-30",
-    "message": "RCO Identity 2.0.23: Color 1/2/3 on clothes and makeup saved with one Choose, female corsets moved from Vests to Corsets, and fixes for green NPC clothes and the color save error."
+    "releasedAt": "2026-11-02",
+    "message": "RCO Identity 2.0.26. 2.0.24: new characters no longer get a Last Location pin on the spawn map; they choose a town. 2.0.25: switching characters no longer carries the previous character's tattoos and makeup onto a character loaded from an older RSG/VORP skin, and they are no longer saved to that character. 2.0.26: removing painted (Color) MP clothes with /boots or /pants no longer leaves the feet or the lower body invisible, and /boots no longer refuses with \"This clothing combination cannot be changed safely\" after a color change in the clothing store."
   },
   "channels": {
-    "stable": "2.0.23"
+    "stable": "2.0.26"
   },
   "vehicles": {
     "latest": "0.1.138",
