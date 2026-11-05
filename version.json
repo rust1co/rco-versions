@@ -6,7 +6,7 @@
     "message": "RCO Identity 2.0.27. 2.0.25: switching characters no longer carries the previous character's tattoos and makeup onto a character loaded from an older RSG/VORP skin, and they are no longer saved to that character. 2.0.26: removing painted (Color) MP clothes with /boots or /pants no longer leaves the feet or the lower body invisible, and /boots no longer refuses with \"This clothing combination cannot be changed safely\" after a color change in the clothing store. 2.0.27: on slow connections, a character that took longer than 8 seconds to dress no longer spawns invisible to its own player."
   },
   "channels": {
-    "stable": "2.0.26"
+    "stable": "2.0.27"
   },
   "vehicles": {
     "latest": "0.1.138",
