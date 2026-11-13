@@ -1,12 +1,12 @@
 {
   "identity": {
-    "latest": "2.0.28",
+    "latest": "2.0.29",
     "minimum": "1.7.0",
-    "releasedAt": "2026-11-12",
-    "message": "RCO Identity 2.0.28: the Last Location autosave is much lighter on the server; every 10 seconds it only writes the position to the database instead of resending all player data."
+    "releasedAt": "2026-11-13",
+    "message": "RCO Identity 2.0.29: saving NPC neckwear, neckties and neckerchiefs from the Neck tab no longer fails with npc_catalog_unverified."
   },
   "channels": {
-    "stable": "2.0.28"
+    "stable": "2.0.29"
   },
   "vehicles": {
     "latest": "0.1.138",
