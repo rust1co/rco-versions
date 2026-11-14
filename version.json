@@ -27,9 +27,9 @@
     "message": "RCO Steamline 0.1.7: the track repair panel always shows the work key on the spike step, and italic titles such as train names are no longer cut at their edges."
   },
   "motorworks": {
-    "latest": "0.1.18",
+    "latest": "0.1.19",
     "minimum": "0.1.0",
     "releasedAt": "2026-11-14",
-    "message": "RCO Motorworks 0.1.18: other players' vehicles and riders inside the workshop are drawn whole on every client, and the interior reflections no longer glow."
+    "message": "RCO Motorworks 0.1.19: interior reflections toned down, so metal, glass and skin inside the workshop no longer mirror the room."
   }
 }
