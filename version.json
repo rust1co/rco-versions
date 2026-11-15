@@ -9,10 +9,10 @@
     "stable": "2.0.29"
   },
   "vehicles": {
-    "latest": "0.1.138",
+    "latest": "0.1.140",
     "minimum": "0.1.0",
-    "releasedAt": "2026-10-28",
-    "message": "RCO Vehicles 0.1.138: livery tabs on the same car now combine (Ironhorse taxi livery with any wheel colour)."
+    "releasedAt": "2026-11-15",
+    "message": "RCO Vehicles 0.1.140: trunks can require an accessory, native prompts never count one press twice, and a new KeyHint export for vehicle scripts (the Atlas uses it to load cars)."
   },
   "gym": {
     "latest": "0.0.92",
