@@ -1,12 +1,12 @@
 {
   "identity": {
-    "latest": "2.0.29",
+    "latest": "2.0.31",
     "minimum": "1.7.0",
-    "releasedAt": "2026-11-13",
-    "message": "RCO Identity 2.0.29: saving NPC neckwear, neckties and neckerchiefs from the Neck tab no longer fails with npc_catalog_unverified."
+    "releasedAt": "2026-11-16",
+    "message": "RCO Identity 2.0.31: saving NPC clothes (hats and every other NPC tab) in the clothing shop and character creator no longer fails with npc_catalog_unverified."
   },
   "channels": {
-    "stable": "2.0.29"
+    "stable": "2.0.31"
   },
   "vehicles": {
     "latest": "0.1.140",
