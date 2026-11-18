@@ -1,12 +1,12 @@
 {
   "identity": {
-    "latest": "2.0.31",
+    "latest": "2.0.32",
     "minimum": "1.7.0",
-    "releasedAt": "2026-11-16",
-    "message": "RCO Identity 2.0.31: saving NPC clothes (hats and every other NPC tab) in the clothing shop and character creator no longer fails with npc_catalog_unverified."
+    "releasedAt": "2026-11-18",
+    "message": "RCO Identity 2.0.32: no more NETWORK_CONCEAL_PLAYER script error (for example after a revive) while staff is hidden in txAdmin noclip."
   },
   "channels": {
-    "stable": "2.0.31"
+    "stable": "2.0.32"
   },
   "vehicles": {
     "latest": "0.1.140",
