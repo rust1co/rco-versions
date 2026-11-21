@@ -1,12 +1,12 @@
 {
   "identity": {
-    "latest": "2.0.32",
+    "latest": "2.0.33",
     "minimum": "1.7.0",
-    "releasedAt": "2026-11-18",
-    "message": "RCO Identity 2.0.32: no more NETWORK_CONCEAL_PLAYER script error (for example after a revive) while staff is hidden in txAdmin noclip."
+    "releasedAt": "2026-11-21",
+    "message": "RCO Identity 2.0.33: a barber chair in use can no longer be taken by a second player, and a new config/blacklisted_names.lua blocks names and words in character names."
   },
   "channels": {
-    "stable": "2.0.32"
+    "stable": "2.0.33"
   },
   "vehicles": {
     "latest": "0.1.140",
