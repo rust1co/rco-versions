@@ -1,12 +1,12 @@
 {
   "identity": {
-    "latest": "2.0.33",
+    "latest": "2.0.34",
     "minimum": "1.7.0",
-    "releasedAt": "2026-11-21",
-    "message": "RCO Identity 2.0.33: a barber chair in use can no longer be taken by a second player, and a new config/blacklisted_names.lua blocks names and words in character names."
+    "releasedAt": "2026-11-23",
+    "message": "RCO Identity 2.0.34: body paint or skin tone from another character no longer stays on the body after switching characters."
   },
   "channels": {
-    "stable": "2.0.33"
+    "stable": "2.0.34"
   },
   "vehicles": {
     "latest": "0.1.140",
