@@ -1,12 +1,12 @@
 {
   "identity": {
-    "latest": "2.0.34",
+    "latest": "2.0.35",
     "minimum": "1.7.0",
     "releasedAt": "2026-11-23",
-    "message": "RCO Identity 2.0.34: body paint or skin tone from another character no longer stays on the body after switching characters."
+    "message": "RCO Identity 2.0.35: another character's body paint and skin tone no longer show on the upper body after picking a character."
   },
   "channels": {
-    "stable": "2.0.34"
+    "stable": "2.0.35"
   },
   "vehicles": {
     "latest": "0.1.140",
